@@ -9,9 +9,13 @@ Here is the data we used:
 
 
 # Actual Comparison
+
+## 2018
 ![raw text](https://github.com/jhe2155/group-task-3/blob/main/car%20graph.png)
 
 ![raw text](https://github.com/jhe2155/group-task-3/blob/main/not%20misleading.png)
+
+## 2017
 
 ![raw text](https://github.com/jhe2155/group-task-3/blob/main/2017automobiles.png)
 
