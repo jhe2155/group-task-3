@@ -32,6 +32,6 @@ These graphs show a direct and intuitive correlation between the number of regis
 
 *** Annotations for this one are the exact same as the first graph ***
 
-![raw text](https://github.com/jhe2155/group-task-3/blob/main/2017emissionsbad.png)
+![raw text](https://github.com/jhe2155/group-task-3/blob/main/2017_emissionsbad.png)
 
 *** Annotations are the same for the 2nd graph. Furthermore, in this graph, the color scheme has very very little intuitive relation with the numbers, and the legend is not labeled. ***
