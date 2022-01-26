@@ -1,66 +1,52 @@
-﻿State ,Total Automobile Registrations
-Alabama,"5,056,073 "
-Alaska ,"804,505 "
-Arizona,"5,964,434 "
-Arkansas,"2,833,697 "
-California ,"30,795,141 "
-Colorado ,"5,259,960 "
-Connecticut ,"2,826,350 "
-Delaware ,"970,733 "
-Dist. of Col. ,"346,016 "
-Florida ,"16,959,269 "
-Georgia ,"8,442,325 "
-Hawaii,"1,259,541 "
-Idaho,"1,835,903 "
-Illinois ,"10,890,760 "
-Indiana ,"6,170,034 "
-Iowa ,"3,750,077 "
-Kansas,"2,717,873 "
-Kentucky,"4,293,205 "
-Louisiana (2),"3,906,812 "
-Maine ,"1,094,388 "
-Maryland,"4,357,598 "
-Massachusetts ,"5,065,221 "
-Michigan,"8,517,065 "
-Minnesota ,"5,682,653 "
-Mississippi ,"2,057,476 "
-Missouri,"5,568,736 "
-Montana ,"1,813,854 "
-Nebraska,"1,965,105 "
-Nevada ,"2,455,442 "
-New Hampshire,"1,319,117 "
-New Jersey ,"6,057,711 "
-New Mexico,"1,740,002 "
-New York ,"10,857,455 "
-North Carolina,"8,070,717 "
-North Dakota,"1,056,758 "
-Ohio,"10,809,247 "
-Oklahoma (2),"3,744,178 "
-Oregon ,"4,103,451 "
-Pennsylvania,"10,689,206 "
-Rhode Island ,"872,814 "
-South Carolina,"4,404,100 "
-South Dakota ,"1,258,356 "
-Tennessee ,"5,800,489 "
-Texas ,"22,130,765 "
-Utah,"2,355,773 "
-Vermont,"621,608 "
-Virginia,"7,514,484 "
-Washington ,"7,256,196 "
-West Virginia (2),"1,691,237 "
-Wisconsin ,"5,596,635 "
-Wyoming ,"819,257 "
-Total,"272,429,803 "
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
+﻿State,Automobiles,id
+Alabama,5056073,1
+Alaska,804505,2
+Arizona,5964434,4
+Arkansas,2833697,5
+California,30795141,6
+Colorado,5259960,8
+Connecticut,2826350,9
+Delaware,970733,10
+District of Columbia,346016,11
+Florida,16959269,12
+Georgia,8442325,13
+Hawaii,1259541,15
+Idaho,1835903,16
+Illinois,10890760,17
+Indiana,6170034,18
+Iowa,3750077,19
+Kansas,2717873,20
+Kentucky,4293205,21
+Louisiana,3906812,22
+Maine,1094388,23
+Maryland,4357598,24
+Massachusetts,5065221,25
+Michigan,8517065,26
+Minnesota,5682653,27
+Mississippi,2057476,28
+Missouri,5568736,29
+Montana,1813854,30
+Nebraska,1965105,31
+Nevada,2455442,32
+New Hampshire,1319117,33
+New Jersey,6057711,34
+New Mexico,1740002,35
+New York,10857455,36
+North Carolina,8070717,37
+North Dakota,1056758,38
+Ohio,10809247,39
+Oklahoma,3744178,40
+Oregon,4103451,41
+Pennsylvania,10689206,42
+Rhode Island,872814,44
+South Carolina,4404100,45
+South Dakota,1258356,46
+Tennessee,5800489,47
+Texas,22130765,48
+Utah,2355773,49
+Vermont,621608,50
+Virginia,7514484,51
+Washington,7256196,53
+West Virginia,1691237,54
+Wisconsin,5596635,55
+Wyoming,819257,56
