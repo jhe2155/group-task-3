@@ -23,3 +23,7 @@ These two graphs show a direct and intuitive correlation between the number of r
 ![raw text](https://github.com/jhe2155/group-task-3/blob/main/car%20graph.png)
 
 ![raw text](https://github.com/jhe2155/group-task-3/blob/main/misleading.png)
+
+![raw text](https://github.com/jhe2155/group-task-3/blob/main/2017automobiles.png)
+
+![raw text](https://github.com/jhe2155/group-task-3/blob/main/2017emissions_bad.png)
