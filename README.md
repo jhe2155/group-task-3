@@ -1,4 +1,4 @@
-# Group-task-3
+# Group Task 3: Misleading and Non-Misleading Data Visualizations
 
 We wanted to compare CO2 emissions in correlation to car-population within the United States. To compare the two, we looked at data recorded in 2018
 
